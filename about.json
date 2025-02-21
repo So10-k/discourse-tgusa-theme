@@ -1,6 +1,6 @@
 {
-  "name": "discourse-wyze-theme",
-  "about_url": "https://github.com/wyzelabs/discourse-wyze-theme",
+  "name": "discourse-grandstates-theme",
+  "about_url": "https://github.com/So10-k/discourse-tgusa-theme",
   "license_url": "https://wyze.com",
   "assets": {
     "neutrif-regular": "assets/neutrif-pro.woff",
